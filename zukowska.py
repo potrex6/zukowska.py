@@ -15,6 +15,13 @@ ZUKOWSKA = [
         "Konieczne jest wprowadzenie sprawiedliwości społecznej, dlatego",
         "Chcemy społeczeństwa, w którym każdy jest równy, dlatego",
         "Prawa człowieka muszą być zawsze na pierwszym miejscu, dlatego",
+        "Równość dla osób LGBTQ+ to nasz obowiązek, dlatego",
+        "Związki jednopłciowe muszą mieć takie same prawa jak małżeństwa heteroseksualne, dlatego",
+        "Aborcja to prawo każdej kobiety, dlatego",
+        "Nie możemy ograniczać wyborów kobiet w kwestii aborcji, dlatego",
+        "Prawa reprodukcyjne to prawa człowieka, dlatego",
+        "Mazowsze graniczy z Białorusią, dlatego",
+        "Mężczyzna może urodzić dziecko, dlatego",
     ],
     [
         "musimy walczyć o prawa pracownicze.",
@@ -31,6 +38,8 @@ ZUKOWSKA = [
         "zrównoważony rozwój i sprawiedliwość muszą stać się priorytetem.",
         "musimy zadbać o naszą planetę i przyszłe pokolenia.",
         "domagamy się zmiany w systemie edukacji na bardziej sprawiedliwy.",
+        "musimy zagwarantować równość i prawa dla wszystkich, bez względu na orientację seksualną.",
+        "równość w dostępie do usług zdrowotnych, w tym aborcji, to nasze zadanie.",
     ],
     [
         "Bo Polska potrzebuje lewicowej wizji przyszłości, w której",
@@ -45,6 +54,8 @@ ZUKOWSKA = [
         "Jesteśmy za systemem, który działa dla ludzi, a nie dla korporacji, dlatego",
         "Przyszłość, w której nikt nie zostanie pominięty, dlatego",
         "Musimy zmienić system, aby działał na rzecz każdego człowieka, dlatego",
+        "W której każda kobieta ma pełne prawo do decydowania o swoim ciele, dlatego",
+        "Każda osoba LGBTQ+ ma prawo do równości i akceptacji, dlatego",
     ],
     [
         "sprawiedliwość wygrywa z uprzedzeniami.",
@@ -61,6 +72,9 @@ ZUKOWSKA = [
         "świat, w którym nikt nie jest zostawiony samemu sobie.",
         "każdy człowiek zasługuje na szansę na lepsze życie.",
         "wolność, równość i braterstwo muszą stać się rzeczywistością.",
+        "prawa osób LGBTQ+ to integralna część praw człowieka.",
+        "prawo do aborcji to kwestia wolności wyboru i szacunku dla kobiet.",
+        "prawo do decydowania o swoim ciele to prawo każdej osoby.",
     ],
 ]
 
