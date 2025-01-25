@@ -1,5 +1,5 @@
 # korwin.py
-Prosty generator wypowiedzi Korwina napisany w Python!
+Prosty generator wypowiedzi Anny Marii Żukowskiej z partii Lewica napisany w Python!
 
 Przykładowe użycie:
 ```python
