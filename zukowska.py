@@ -11,6 +11,10 @@ ZUKOWSKA = [
         "Musimy walczyć z nierównościami ekonomicznymi, dlatego",
         "Solidarność międzyludzka to nasz obowiązek, dlatego",
         "Walka o prawa pracownicze to walka o lepszy świat, dlatego",
+        "Musimy dążyć do zrównoważonego rozwoju, dlatego",
+        "Konieczne jest wprowadzenie sprawiedliwości społecznej, dlatego",
+        "Chcemy społeczeństwa, w którym każdy jest równy, dlatego",
+        "Prawa człowieka muszą być zawsze na pierwszym miejscu, dlatego",
     ],
     [
         "musimy walczyć o prawa pracownicze.",
@@ -22,6 +26,11 @@ ZUKOWSKA = [
         "dążymy do skrócenia czasu pracy bez utraty wynagrodzenia.",
         "musimy zakończyć wyzysk na rynku pracy.",
         "rządy muszą inwestować w ludzi, nie w korporacje.",
+        "walczymy o lepsze warunki pracy dla każdej osoby.",
+        "chcemy uczciwego podziału bogactwa.",
+        "zrównoważony rozwój i sprawiedliwość muszą stać się priorytetem.",
+        "musimy zadbać o naszą planetę i przyszłe pokolenia.",
+        "domagamy się zmiany w systemie edukacji na bardziej sprawiedliwy.",
     ],
     [
         "Bo Polska potrzebuje lewicowej wizji przyszłości, w której",
@@ -32,6 +41,10 @@ ZUKOWSKA = [
         "Nie ma zgody na społeczeństwo, w którym",
         "Lewica walczy o przyszłość, gdzie",
         "Razem możemy zbudować system, w którym",
+        "Każdy zasługuje na lepsze życie, dlatego",
+        "Jesteśmy za systemem, który działa dla ludzi, a nie dla korporacji, dlatego",
+        "Przyszłość, w której nikt nie zostanie pominięty, dlatego",
+        "Musimy zmienić system, aby działał na rzecz każdego człowieka, dlatego",
     ],
     [
         "sprawiedliwość wygrywa z uprzedzeniami.",
@@ -42,6 +55,12 @@ ZUKOWSKA = [
         "każdy ma dostęp do edukacji, zdrowia i godnego życia.",
         "ekonomia służy ludziom, a nie odwrotnie.",
         "równość i godność stają się prawem, a nie przywilejem.",
+        "społeczeństwo oparte na wzajemnym szacunku i solidarności.",
+        "nasza przyszłość to sprawiedliwość i zrównoważony rozwój.",
+        "równość dla wszystkich, bez względu na pochodzenie czy status.",
+        "świat, w którym nikt nie jest zostawiony samemu sobie.",
+        "każdy człowiek zasługuje na szansę na lepsze życie.",
+        "wolność, równość i braterstwo muszą stać się rzeczywistością.",
     ],
 ]
 
