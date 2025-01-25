@@ -3,7 +3,7 @@ Prosty generator wypowiedzi Anny Marii Żukowskiej z partii Lewica napisany w Py
 
 Przykładowe użycie:
 ```python
-import korwin as korwin
+import zukowska as zukowska
 
-print(korwin.korwin_random())
+print(zukowska.zukowska_random())
 ```
