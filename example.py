@@ -1,3 +1,3 @@
-import korwin as korwin
+import zukowska as zukowska
 
-print(korwin.korwin_random())
+print(zukowska.zukowska_random())
