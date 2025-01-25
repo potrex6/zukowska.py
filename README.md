@@ -1,4 +1,4 @@
-# korwin.py
+# zukowska.py
 Prosty generator wypowiedzi Anny Marii Żukowskiej z partii Lewica napisany w Python!
 
 Przykładowe użycie:
