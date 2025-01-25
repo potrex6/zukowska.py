@@ -46,7 +46,6 @@ ZUKOWSKA = [
 ]
 
 
-
 def zukowska_random():
     answer = [random.choice(ZUKOWSKA[i]) for i in range(len(ZUKOWSKA))]
     return " ".join(answer)
