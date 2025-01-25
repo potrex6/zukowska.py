@@ -75,6 +75,7 @@ ZUKOWSKA = [
         "prawa osób LGBTQ+ to integralna część praw człowieka.",
         "prawo do aborcji to kwestia wolności wyboru i szacunku dla kobiet.",
         "prawo do decydowania o swoim ciele to prawo każdej osoby.",
+        "powinniśmy zacząć jeść robaki zamiast mięsa.",
     ],
 ]
 
